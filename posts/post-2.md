@@ -3,7 +3,8 @@ title: Why do we say no to opportunities and resources?
 date: 20-12-2023
 tags: [alyona tokar, psychotherapyst]
 author: Alyona Tokar
-imageUrl: dxp6c8rqf/image/upload/v1704313332/article-2_ie8voc.jpg
+imageUrl: https://res.cloudinary.com/dxp6c8rqf/image/upload/v1704313332/article-2_ie8voc.jpg
+slug: why-do-we-say-no-to-opportunities-and-resources
 ---
 
 Phasellus accumsan cursus velit. Praesent egestas tristique nibh. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. In auctor lobortis lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.

@@ -1,10 +1,10 @@
 ---
-title: How to get through unpredictable changes in life.
-date: 30-12-2023
-tags: [alyona tokar, psychotherapyst, changes in life]
+title: How to overcome the crisis by changing your thinking strategies.
+date: 06-01-2024
+tags: [alyona tokar, psychotherapyst, overcome the crisis, changing your thinking strategies]
 author: Alyona Tokar
-imageUrl: https://res.cloudinary.com/dxp6c8rqf/image/upload/v1704314146/article-3_pbnhgt.png
-slug: how-to-get-through-unpredictable-changes-in-life
+imageUrl: https://res.cloudinary.com/dxp6c8rqf/image/upload/v1704534829/article-4_qqi7z4.png
+slug: how-to-overcome-the-crisis-by-changing-thinking-strategies
 ---
 
 Phasellus accumsan cursus velit. Praesent egestas tristique nibh. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. In auctor lobortis lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
